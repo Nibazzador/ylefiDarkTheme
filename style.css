@@ -1,13 +1,29 @@
-div,
+#app,
+.yle__navigation,
 aside,
+.enYoEa,
+.gjKeuF,
+.hDiWzW,
+.hDisYi,
+.bvLDQf,
+.eSMnsb,
+.izpcYR,
+.kaxUtQ,
+.iPqvpk,
+.cwgfLL,
+.ISzst,
+.lphiRv,
+.ISzst,
+.gQMVMs,
 article,
-.aw-2kxhaj {
-  background-color: #111 !important;
+.aw-2kxhaj,
+li:hover {
+  background: #111 !important;
 }
 
 .yle-header-container,
 .yle-header-actions div {
-  background-color: #262a2e !important;
+  background: #262a2e !important;
 }
 
 h1,
@@ -19,7 +35,8 @@ span,
 p,
 button,
 .aw-2kxhaj,
-li div {
+li div,
+li {
   color: #ddd !important;
 }
 
