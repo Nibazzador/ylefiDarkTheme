@@ -15,7 +15,8 @@
 ._1svl7jy1,
 .gYfglR,
 .jHppbC,
-.jrwYRK {
+.jrwYRK,
+.yo-exam-root {
   background: #111 !important;
 }
 
@@ -29,4 +30,14 @@ span,
 strong,
 div {
   color: #ddd !important;
+}
+
+.bcNzJO {
+  /* Frontpage most read news list numbers */
+  color: rgb(19, 20, 21) !important;
+}
+
+.hAIasF {
+  /* Question choice background */
+  background-color: #222 !important;
 }
